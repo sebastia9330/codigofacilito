@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+header{
+    background-color: #004269;
+    text-align: center;
+    padding: 16px;
+}
+
+p{
+    display: inline-block;
+    width: 400px;
+    color: #fff;
+    font-weight: 200;
+}
+
+.nombre{
+    display: inline-block;
+    width: 400px;
+    color: #fff;
+    font-weight: 200;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.experiencia{
+    background-color: #470101;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+.sectionone{
+    width: 960px;
+    background-color: #ff0000;
+    height: 200px;
+    margin: 0 auto;
+}
