@@ -1,0 +1,11 @@
+.container{
+    background: linear-gradient(to right, #1e9600, #fff200, #ff0000);
+}
+
+th{
+    border: solid 1px;
+}
+td{
+    border: solid 1px;
+}
+
